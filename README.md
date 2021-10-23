@@ -18,6 +18,9 @@
   - [ ] Reach out to industry partners (Amazon, Secondmind, MSR, …?)
   - [ ] Money can be used to pay for student’s posters
 - [x] Create website: https://www.neuripsmeetupcambridge.info/
+  - [x] Set up google analytics
+  - [x] Link to eventbrite
+  - [ ] Update schedule!
 - [x] Create eventbrite event: https://www.eventbrite.co.uk/e/neurips-meetup-cambridge-tickets-194983399597
   - We need to ask for dietary requirements at registration: 
 - [ ] Food and drinks
