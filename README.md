@@ -1,3 +1,6 @@
+[![Generic badge](https://img.shields.io/badge/Website-Active-Green.svg)](https://www.neuripsmeetupcambridge.info/)
+
+
 ![kings](https://user-images.githubusercontent.com/13780846/138556284-e3918afb-adbc-4f94-bdd0-c56afa5b607c.jpg)
 
 # NeurIPS MeetUp Cambridge
