@@ -39,3 +39,4 @@
   - [ ] Reach out to affinity groups (Black in AI, Latin in AI, Queer in AI, etc…)
   - [ ] Twitter
   - [ ] Own departments and friends: ML@CL, MLG, CBL
+- [ ] Lanyard or sticker with name
